@@ -1,0 +1,8 @@
+encoder_name: 'mit_b5'
+encoder_weights: 'imagenet'
+decoder_name: 'FPN'
+workers: 16
+image_size: 512
+batch_size: 16
+init_lr: 0.0001
+epochs: 40

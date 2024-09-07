@@ -1,0 +1,44 @@
+dataset
+├── isic_2018
+│   ├── ISIC2018_Task1-2_Test_Input
+│   │   ├── ISIC_0012169.jpg
+│   │   ├── *.jpg
+│   ├── ISIC2018_Task1-2_Training_Input
+│   │   ├── ISIC_0000000.jpg
+│   │   ├── *.jpg
+│   ├── ISIC2018_Task1-2_Validation_Input
+│   │   ├── ISIC_0012255.jpg
+│   │   ├── *.jpg
+│   ├── ISIC2018_Task1_Test_GroundTruth
+│   │   ├── ISIC_0012169_segmentation.png
+│   │   ├── *.png
+│   ├── ISIC2018_Task1_Training_GroundTruth
+│   │   ├── ISIC_0000000_segmentation.png
+│   │   ├── *.png   
+│   └── ISIC2018_Task1_Validation_GroundTruth
+│       ├── ISIC_0012255_segmentation.png
+│       ├── *.png
+├── isic_2019
+│   ├── ISIC_2019_Training_GroundTruth.csv
+│   ├── ISIC_2019_Training_Metadata.csv
+│   └── ISIC_2019_Training_Input
+│       ├── ISIC_0000000.jpg
+│       ├── *.jpg
+├── isic_2020
+│   ├── ISIC_2020_Training_Duplicates.csv
+│   ├── train.csv
+│   └── train
+│       ├── ISIC_0015719.jpg
+│       ├── *.jpg
+├── isic_2024
+│   ├── test-image.hdf5
+│   ├── test-metadata.csv
+│   ├── train-metadata.csv
+│   └── train-image
+│       ├── ISIC_0015670.jpg
+│       ├── *.jpg
+└── PAD-UFES-20
+    ├── metadata.csv
+    └── images
+        ├── PAT_1000_31_620.png
+        ├── *.png

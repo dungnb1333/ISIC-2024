@@ -1,0 +1,8 @@
+encoder_name: 'timm-efficientnet-b7'
+encoder_weights: "noisy-student"
+decoder_name: 'UnetPlusPlus'
+workers: 16
+image_size: 256
+batch_size: 48
+init_lr: 0.0002
+epochs: 40
