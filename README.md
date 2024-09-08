@@ -135,7 +135,7 @@ python train_ema.py --cfg configs/convnextv2_tiny_288.yaml
 | [convnextv2_tiny]() | 288        | 0.1645  |
 
 #### 3.2 Tabular pipeline
-I used 3 models: LightGBM, CatBoost, XGBoost. I combined 10 features from the image pipeline and all the features from the [excellent notebook](https://www.kaggle.com/code/greysky/isic-2024-only-tabular-data/notebook)
+I used 3 models: LightGBM, CatBoost, XGBoost. I combined 10 features from the image pipeline and all the features from the [amazing tabular notebook](https://www.kaggle.com/code/greysky/isic-2024-only-tabular-data/notebook)
 ```shell
 cd src/tabular
 python train_tab_meta_feat.py
@@ -156,5 +156,5 @@ python train_2_model_feat.py
 ### 4.FINAL SUBMISSION
 |                                                    | PublicLB | PrivateLB |
 | :------------------------------------------------- | :------- | :-------- |
-| [Sub1-GPU: 0.2*(meta only) + 0.8*(10model feat)]() | 0.182    | 0.172     |
-| [Sub2-CPU: 0.2*(meta only) + 0.8*(2model feat)]()  | 0.180    | 0.170     |
+| [Sub1-GPU: 0.2*(meta only) + 0.8*(10model feat)](https://www.kaggle.com/code/nguyenbadung/isic-2024-final-submission?scriptVersionId=195231736) | 0.182    | 0.172     |
+| [Sub2-CPU: 0.2*(meta only) + 0.8*(2model feat)](https://www.kaggle.com/code/nguyenbadung/isic-2024-secondary-prize?scriptVersionId=195319448)  | 0.180    | 0.170     |
