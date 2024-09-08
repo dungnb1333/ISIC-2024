@@ -1,0 +1,17 @@
+model_name: "timm-efficientnet-b3"
+encoder_weights: 'noisy-student'
+in_features: 1536
+workers: 16
+image_size: 224
+batch_size: 192
+init_lr: 0.0002
+epochs: 30
+mixup: True
+ema: True
+ema_decay: 0.995
+use_ext_data: True
+downsampling: True
+downsampling_type: 'type2'
+neg_pos_ratio: 3
+patience: 10
+ema_saved_epoch: 8

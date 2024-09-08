@@ -1,0 +1,15 @@
+model_name: 'vit_tiny_patch16_224.augreg_in21k_ft_in1k'
+workers: 16
+image_size: 224
+batch_size: 1024
+init_lr: 0.0001
+epochs: 30
+mixup: True
+ema: True
+ema_decay: 0.995
+use_ext_data: False
+downsampling: True
+downsampling_type: 'type1'
+neg_pos_ratio: 200
+patience: 10
+ema_saved_epoch: 15

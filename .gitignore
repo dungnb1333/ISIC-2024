@@ -1,0 +1,13 @@
+src/image_exp0/checkpoints/
+src/image_exp0/checkpoints_ema/
+src/image_exp0/prediction/
+src/image_exp1_aux/checkpoints/
+src/image_exp1_aux/checkpoints_ema/
+src/image_exp1_aux/prediction/
+src/image_exp3/checkpoints/
+src/image_exp3/checkpoints_ema/
+src/image_exp3/prediction/
+src/lesion_segmentation/checkpoints/
+src/tabular/checkpoints_10model_feat/
+src/tabular/checkpoints_2model_feat/
+src/tabular/checkpoints_tab_meta_feat/

@@ -1,0 +1,13 @@
+model_name: 'convnextv2_tiny.fcmae_ft_in22k_in1k'
+workers: 16
+image_size: 288
+batch_size: 128
+init_lr: 0.0001
+epochs: 30
+mixup: True
+ema: True
+ema_decay: 0.995
+downsampling_type: 'type2'
+neg_pos_ratio: 50
+patience: 10
+ema_saved_epoch: 8

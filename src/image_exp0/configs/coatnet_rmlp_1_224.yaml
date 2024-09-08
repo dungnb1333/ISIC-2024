@@ -1,0 +1,15 @@
+model_name: 'coatnet_rmlp_1_rw_224.sw_in1k'
+workers: 16
+image_size: 224
+batch_size: 192
+init_lr: 0.0001
+epochs: 30
+mixup: True
+ema: True
+ema_decay: 0.995
+use_ext_data: True
+downsampling: True
+downsampling_type: 'type2'
+neg_pos_ratio: 3
+patience: 5
+ema_saved_epoch: 8
