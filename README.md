@@ -4,7 +4,7 @@
 
 4th place for [ISIC 2024 - Skin Cancer Detection Challenge](https://www.kaggle.com/competitions/isic-2024-challenge/overview)
 
-[Summary](https://www.kaggle.com/competitions/isic-2024-challenge/overview)
+[Summary](https://www.kaggle.com/competitions/isic-2024-challenge/discussion/532760)
 
 ### 1. Environment
 - Ubuntu 22.04 LTS
