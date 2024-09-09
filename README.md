@@ -29,7 +29,7 @@ pip install -r requirements.txt
 - dataset structure should be [./dataset/dataset_structure.txt](./dataset/dataset_structure.txt)
 - Then run following scripts
 ```shell
-cd src
+cd src/prepare
 python split_2024.py
 python split_2020.py
 python split_2019.py
