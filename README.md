@@ -154,7 +154,7 @@ python train_2_model_feat.py
 
 
 ### 4.FINAL SUBMISSION
-|                                                    | PublicLB | PrivateLB |
-| :------------------------------------------------- | :------- | :-------- |
-| [Sub1-GPU: 0.2*(meta only) + 0.8*(10model feat)](https://www.kaggle.com/code/nguyenbadung/isic-2024-final-submission?scriptVersionId=195231736) | 0.182    | 0.172     |
-| [Sub2-CPU: 0.2*(meta only) + 0.8*(2model feat)](https://www.kaggle.com/code/nguyenbadung/isic-2024-secondary-prize?scriptVersionId=195319448)  | 0.180    | 0.170     |
+|                                                    | PublicLB | PrivateLB | Prize |
+| :------------------------------------------------- | :------- | :-------- | :-------- |
+| [Sub1-GPU: 0.2*(meta only) + 0.8*(10model feat)](https://www.kaggle.com/code/nguyenbadung/isic-2024-final-submission?scriptVersionId=195231736) | 0.18229    | 0.17225     | 4th place leaderboard prize |
+| [Sub2-CPU: 0.2*(meta only) + 0.8*(2model feat)](https://www.kaggle.com/code/nguyenbadung/isic-2024-secondary-prize?scriptVersionId=195319448)  | 0.18094    | 0.17011     | Top-15 retrieval sensitivity prize | 
