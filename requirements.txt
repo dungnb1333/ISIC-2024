@@ -1,4 +1,5 @@
 albumentations==1.4.8
+albucore==0.0.14
 catboost==1.2.5
 efficientnet_pytorch==0.7.1
 imblearn==0.0
