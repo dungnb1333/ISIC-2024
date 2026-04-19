@@ -2,7 +2,7 @@
 
 ![Alt text](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F4972760%2F169b1f691322233e7b31aabaf6716ff3%2Fex-tiles.png?generation=1717700538524806&alt=media "Optional Title")
 
-4th place for [ISIC 2024 - Skin Cancer Detection Challenge](https://www.kaggle.com/competitions/isic-2024-challenge/overview)
+1st place (Performance) and 4th place (Accuracy) for [ISIC 2024 - Skin Cancer Detection Challenge](https://www.kaggle.com/competitions/isic-2024-challenge/overview)
 
 ### [Summary](https://www.kaggle.com/competitions/isic-2024-challenge/discussion/532760)
 
@@ -157,4 +157,4 @@ python train_2_model_feat.py
 |                                                    | PublicLB | PrivateLB | Prize |
 | :------------------------------------------------- | :------- | :-------- | :-------- |
 | [Sub1-GPU: 0.2*(meta only) + 0.8*(10model feat)](https://www.kaggle.com/code/nguyenbadung/isic-2024-final-submission?scriptVersionId=195231736) | 0.18229    | 0.17225     | 4th place leaderboard prize |
-| [Sub2-CPU: 0.2*(meta only) + 0.8*(2model feat)](https://www.kaggle.com/code/nguyenbadung/isic-2024-secondary-prize?scriptVersionId=195319448)  | 0.18094    | 0.17011     | Top-15 retrieval sensitivity prize | 
+| [Sub2-CPU: 0.2*(meta only) + 0.8*(2model feat)](https://www.kaggle.com/code/nguyenbadung/isic-2024-secondary-prize?scriptVersionId=195319448)  | 0.18094    | 0.17011     | 1st place performance prize | 
