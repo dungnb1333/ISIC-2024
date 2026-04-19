@@ -1,4 +1,4 @@
-# ISIC-2024
+# ISIC-2024-Skin-Cancer-Detection-AI-Challenge
 
 ![Alt text](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F4972760%2F169b1f691322233e7b31aabaf6716ff3%2Fex-tiles.png?generation=1717700538524806&alt=media "Optional Title")
 
